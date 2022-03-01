@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Oskar Kraszewski ~ @OskiKokoski
+- 👀 I’m interested in: Crypto, Blockchain Technology, Smart Contracts, Grappling,
+- 🌱 I’m currently learning: Python 
+- 📫 How to reach me: oskarkrasz@gmail.com
